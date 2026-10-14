@@ -82,7 +82,7 @@
             Controls.Add(TxtCantClientes);
             Controls.Add(DgvClientes);
             Name = "Form1";
-            Text = "Reto Uso del DataTable";
+            Text = "Reto Uso DataTable";
             ((System.ComponentModel.ISupportInitialize)DgvClientes).EndInit();
             ResumeLayout(false);
             PerformLayout();
